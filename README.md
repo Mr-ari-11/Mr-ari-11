@@ -11,8 +11,8 @@ I'm currently focused on roles in data analytics, data science and quantitative/
 
 <h2>📈 Data Analytics and Financial Projects:</h2>
 
-- <b>The UK Economy Through-Data Trends Relationships Crises (Python, SQL, Time Series)</b> 🏦
-  - UK inflation, GDP, wages, unemployment & rates - ONS + Bank of England data
+- <b>The UK Economy Through Data Trends Relationships Crises (Python, SQL, Time Series)</b> 🏦
+  - [UK inflation, GDP, wages, unemployment & rates - ONS + Bank of England data](https://github.com/rafi-1110/The-UK-Economy-Through-Data-Trends-Relationships-Crises/tree/main)
 - <b>Coffee Price Prediction (Python, Pandas, Exponential Smoothing, SARIMA, Random Forest, SVR)</b> ☕
   - [Coffee Price Prediction: Statistical Models VS Machine Learning Models](https://github.com/rafi-1110/Coffee-Price-Prediction)
 - <b>Exotic Options Pricing (Python, Pandas, Numpy, MatplotLib)</b> 💹
