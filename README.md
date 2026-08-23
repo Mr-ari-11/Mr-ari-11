@@ -28,7 +28,7 @@ I'm currently focused on roles in data analytics, data science and quantitative/
 - <b>Retail Customer Analytics: From Transactions to Insights (Python, Power BI)</b> 🛒
   - Using Dunnhumby data to analyse purchasing behaviour, customer value and retail performance
 - <b>Live Portfolio Risk Dashboard (Python, APIs, VaR, Monte Carlo)</b> 📊
-  - [Live market data via API - volatility, Sharpe ratio, correlation, and VaR (3 methods)]
+  - Live market data via API - volatility, Sharpe ratio, correlation, and VaR (3 methods)
 - <b>Dissertation Extension: Coffee Price Prediction</b> ☕
   - SARIMAX + exogenous variables for better accuracy
 
