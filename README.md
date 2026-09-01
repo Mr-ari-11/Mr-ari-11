@@ -3,7 +3,7 @@
 
 I hold a **BSc in Mathematics, Statistics & Financial Economics** and an **MSc in Computational Finance**, and I'm based in London. I turn data into decisions by combining statistics, programming and financial modelling to build things that answer a real question, not just produce a chart.
 
-I'm currently focused on roles in finance analytics, data analytics, data science and quantitative/risk analysis. Alongside my quantitative background, experience in finance, consulting and teaching means I can also do the part that matters most: explain a complex result clearly to someone who needs to act on it.
+I'm currently focused on roles in finance analytics and data analytics/science. Alongside my quantitative background, experience in finance, consulting and teaching means I can also do the part that matters most: explain a complex result clearly to someone who needs to act on it.
 
 **🛠️ Tools:** Python (pandas, NumPy, scikit-learn, statsmodels) · SQL · Power BI · time-series forecasting (SARIMA/SARIMAX) · Monte Carlo & option pricing · statistical modelling
 
